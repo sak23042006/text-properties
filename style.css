@@ -1,13 +1,13 @@
 #html {
-  text-align: center;
-  text-transform:capitalize;
+  text-align: ;
+  text-transform: uppercase;
   line-height: 2;
 }
 #css {
   color: red;
-  text-align: center;
+  text-align: justify;
 }
-#js{
+#js {
   color: green;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
